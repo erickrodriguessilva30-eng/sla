@@ -1,2 +1,2 @@
 # sla
-web site de um portfolio pessoal
+web site de um portfolio pessoal feito em HTML.
